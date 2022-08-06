@@ -1,0 +1,26 @@
+{
+  "name": "benson-cp02",
+  "version": "1.0.0",
+  "description": "benson-cp02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bensonkawengian/benson-CP02.git"
+  },
+  "keywords": [
+    "benson-cp02"
+  ],
+  "author": "bensonkawengian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bensonkawengian/benson-CP02/issues"
+  },
+  "homepage": "https://github.com/bensonkawengian/benson-CP02#readme",
+  "dependencies": {
+    "jest": "^28.1.3",
+    "yahoo-stock-prices": "^1.1.0"
+  }
+}
